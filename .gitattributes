@@ -1,0 +1,1 @@
+mc3ds.gar/** filter=lfs diff=lfs merge=lfs -text
